@@ -1,0 +1,21 @@
+body {
+  background-color: black;
+  color: white;
+  margin-left: 25px;
+}
+
+div {
+  margin-top: 70px;
+}
+
+img {
+  margin-right: 10px;
+}
+
+input {
+  margin-left: 10px;
+}
+
+form {
+  text-align: center;
+}
